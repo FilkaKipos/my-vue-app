@@ -85,4 +85,7 @@ export default {
 .btn-primary:active {
   background-color: #0056b3;
 }
+h2{
+  color: #fff;
+}
 </style>

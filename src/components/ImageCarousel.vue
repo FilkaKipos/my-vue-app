@@ -27,11 +27,11 @@
           <span class="visually-hidden">Next</span>
         </button>
       </div>
-      <h1 style="font-size: 2.2em; color: #4574cc;"><strong>Танцевально-спортивный клуб "Дуэт"</strong></h1>
-      <p style="font-size: 1em; font-weight: 600; color: #4574cc; margin-bottom: 3vh;">ФЕДЕРАЦИЯ ТАНЦЕВАЛЬНОГО СПОРТА ПЕРМСКОГО КРАЯ</p>
-      <button type="button" class="btn btn-primary" style="--bs-btn-bg: #4574cc; --bs-btn-border-color: #ffffff; --bs-btn-hover-bg: #d49197;">
-        <a href="/contact" style="color: #becde9; text-decoration: none;"><strong>Контакты</strong></a>
-      </button>
+      <h1 style="font-size: 2.2em; color: #ffffff;"><strong>Танцевально-спортивный клуб "Дуэт"</strong></h1>
+<p style="font-size: 1em; font-weight: 600; color: #ffffff; margin-bottom: 3vh;">ФЕДЕРАЦИЯ ТАНЦЕВАЛЬНОГО СПОРТА ПЕРМСКОГО КРАЯ</p>
+<button type="button" class="btn btn-primary" style="--bs-btn-bg: #ffffff; --bs-btn-border-color: #ffffff; --bs-btn-hover-bg: #ffffff;">
+  <a href="/contact" style="color: red; text-decoration: none;"><strong>Контакты</strong></a>
+</button>
     </div>
   </div>
 </template>
@@ -43,5 +43,5 @@ export default {
 </script>
 
 <style scoped>
-/* Add your styles here */
+
 </style>

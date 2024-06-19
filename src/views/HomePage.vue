@@ -1,10 +1,9 @@
 <template>
-  <div>
+  <body class="HomePage">
     <ImageCarousel />
     <NewsList :newsList="newsList" />
-  </div>
+  </body>
 </template>
-
 <script>
 import ImageCarousel from '../components/ImageCarousel.vue';
 import NewsList from '../components/NewsList.vue';
@@ -38,5 +37,12 @@ export default {
 </script>
 
 <style scoped>
-/* Ваши стили */
+.HomePage {
+    font-family: "Comfortaa", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('../assets/background.svg');
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
+    background-attachment: fixed;
+}
 </style>
