@@ -1,8 +1,8 @@
 <template>
-  <body class="HomePage">
+  <div class="HomePage">
     <ImageCarousel />
     <NewsList :newsList="newsList" />
-  </body>
+  </div>
 </template>
 <script>
 import ImageCarousel from '../components/ImageCarousel.vue';

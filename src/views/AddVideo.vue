@@ -1,4 +1,5 @@
 <template>
+    <div class="otst">
     <div class="add-video container">
       <h2>Добавить новое видео</h2>
       <form @submit.prevent="addVideo">
@@ -17,6 +18,7 @@
         <button type="submit" class="btn btn-primary">Добавить видео</button>
       </form>
     </div>
+  </div>
   </template>
   
   <script>

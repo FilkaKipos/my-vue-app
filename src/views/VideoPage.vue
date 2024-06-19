@@ -1,4 +1,5 @@
 <template>
+  <div class="otst">
   <div class="video-page container">
     <h2>Видео выступлений</h2>
     <div class="row">
@@ -21,6 +22,7 @@
       </div>
     </div>
   </div>
+</div>
 </template>
 
 <script>

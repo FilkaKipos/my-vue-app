@@ -1,4 +1,5 @@
 <template>
+  <div class="otst">
   <div class="contact-page container">
     <h2>Контакты</h2>
     <div class="contact-section">
@@ -34,6 +35,7 @@
       <p>+7-912-887-44-77 - Безукладников Егор</p>
     </div>
   </div>
+</div>
 </template>
 
 <script>

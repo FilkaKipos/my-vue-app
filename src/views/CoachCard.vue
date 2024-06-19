@@ -1,4 +1,5 @@
 <template>
+  <div class="otst">
   <div class="container">
     <h1 class="my-4">Наши тренеры</h1>
     <div class="row">
@@ -7,6 +8,7 @@
       </div>
     </div>
   </div>
+</div>
 </template>
 
 <script>
